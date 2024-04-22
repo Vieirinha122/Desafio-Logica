@@ -1,1 +1,1 @@
-dawdawd
+console.log("Olá, mundo")
